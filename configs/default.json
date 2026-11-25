@@ -1,0 +1,16 @@
+{
+  "roll_number": "m26csa004",
+  "seed": 26004,
+  "data_dir": "./data",
+  "output_dir": "./outputs",
+  "epochs_mlp_cnn": 30,
+  "epochs_memorization": 100,
+  "epochs_autoencoder": 40,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "num_workers": 2,
+  "svm_subset_per_class": 1000,
+  "pca_components": 100,
+  "device": "auto"
+}

@@ -1,0 +1,20 @@
+{
+  "project": "ML Assignment 3",
+  "roll_number": "m26csa004",
+  "seed": 26004,
+  "framework": "PyTorch",
+  "contents": [
+    ".gitignore",
+    "README.md",
+    "REPORT_TEMPLATE.md",
+    "configs/default.json",
+    "requirements.txt",
+    "run_all.py",
+    "src/common.py",
+    "src/models.py",
+    "src/q1.py",
+    "src/q2.py",
+    "src/q3.py",
+    "src/q4.py"
+  ]
+}
